@@ -155,8 +155,6 @@ This project can help financial institutions:
 ```text
 online-payment-fraud-detection/
 │
-├── data/
-│   └── online_payment_fraud_detection.csv
 ├── README.md
 ├── Online_Payment_Fraud_Detection.ipynb
 └── opfd.png
