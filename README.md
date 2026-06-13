@@ -1,6 +1,6 @@
 # 🛡️ Online Payment Fraud Detection using Machine Learning
 
-![Project Banner](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/banner.png)
+![Project Banner](opfd.png)
 
 ## 📌 Project Overview
 
