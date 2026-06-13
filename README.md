@@ -176,7 +176,7 @@ online-payment-fraud-detection/
 
 **Ritik Kumar Yadav**
 
-M.Tech Student | Aspiring Data Analyst
+M.Tech Student | Machine Learning Enthusiast | Aspiring Data Analyst
 
 * LinkedIn: https://www.linkedin.com/in/ritik-kumar-yadav-70a81435a/
 * GitHub: https://github.com/RKYEngineering
